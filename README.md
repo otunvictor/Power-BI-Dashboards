@@ -8,4 +8,4 @@ Through this portfolio, I aim to highlight how data visualization can turn numbe
 
 Thank you for visiting my repository. I hope you find these projects both informative and inspiring.
 For collaboration or inquiries, please contact me at otunvictor.analytics@gmail.com
- or visit my portfolio at victorotun.webflow.io.
+ or visit my portfolio at victorotun.webflow.io
